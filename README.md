@@ -1,4 +1,3 @@
-# Galaga Revisited 
+# GCelestialWarfare 
 
-Build using pygame. \
-Start the game using driver.exe. 
+ 
